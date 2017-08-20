@@ -75,6 +75,7 @@
 
    echo "Speed $v1 km/h";
    echo "<br>";
+   settype( $v2, 'integer');
    echo "Speed $v2 m/s";
 
 
@@ -113,12 +114,16 @@
 </form>
 
     <?php
+    $def_arr = array('V1' => 0, 'V2' => 0, 'ss'=> 0);
+    $x = 0;
+    $y = 0;
+    $z = 0;
 
-if (isset($_POST['s'])) {
+    if (isset($_POST['s'])) {
     $x = $_POST['V1'];
     $y = $_POST['V2'];
     $z = $_POST['ss'];
-}
+    }
 
 
     if ($y == 0 and $z = 4) {
