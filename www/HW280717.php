@@ -98,7 +98,7 @@
 
     ?>
 
-<form method="post" action="index.php">
+<form method="post" action="HW280717.php">
 	
 <input type="text" name="V1" id="V1">
 <select name="ss">

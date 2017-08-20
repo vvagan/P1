@@ -317,7 +317,7 @@ echo "<br>";
 
 
 ?>
-<form action="index1.php" method="post" name="form1">
+<form action="HW040817.php" method="post" name="form1">
     <input type="text" name="text1">
     <input type="submit" name="sumbit1" value="Submit">
 </form>
