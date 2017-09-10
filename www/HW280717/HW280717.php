@@ -2,9 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title>P1</title>
-    <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="css/style.css">
+    <title>HW280717</title>
 </head>
 <body>
 
